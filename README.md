@@ -1,10 +1,9 @@
 # ✨ HeyChat - Full Stack Realtime Chat App
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+
 
 A modern, feature-rich real-time chat application built with the MERN stack, Socket.io, and beautiful UI components.
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+[
 
 ## 🚀 Features
 
