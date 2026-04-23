@@ -168,11 +168,3 @@ The app is ready for deployment on platforms like:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built following the [YouTube Tutorial](https://youtu.be/ntKkVrQqBYY)
-- Thanks to all the open-source libraries that made this project possible
